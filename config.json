@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "UNIK CONFIG",
-    "description": "Safe for Main ID",
-    "features": "No Recoil, 90 FPS",
+    "name": "UNIK TEST CONFIG",
+    "description": "Checking Fallback",
+    "features": "90 FPS, No Recoil",
     "version": "1.0",
-    "download_url": "APNA_LINK_YAHAN_DALO"
+    "download_url": "https://www.mediafire.com/file/xxx"
   }
 ]
